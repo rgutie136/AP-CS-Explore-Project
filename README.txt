@@ -1,6 +1,6 @@
-# README for Remix: Ap explore Project #
+# README for AP Explore Project #
 
-This is the README file for the Remix: Ap explore Project app. It's a great place to write
+This is the README file for the AP Explore Project app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
 
